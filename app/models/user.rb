@@ -1,5 +1,6 @@
 class User < ApplicationRecord
-    has_many :posts
+      has_many :posts
+      has_many :comments
 
     validates :name,  presence: { message: "must be given please" },
                       length: { maximum: 50, message: "must be less thna 50 charcaters" }
