@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Light weight Reddit clone
+# Micro Reddit
 
 > In this project, we will build the data structures necessary to support link submissions and comments. This project does not include requirements for the front end. We will use the Rails console to harden skills working with models without the overhead of making HTTP requests and involving controllers or views...
 
