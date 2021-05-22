@@ -1,24 +1,48 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Micro Reddit
 
-Things you may want to cover:
+> In this project, we will build the data structures necessary to support link submissions and comments. This project does not include requirements for the front end. We will use the Rails console to harden skills working with models without the overhead of making HTTP requests and involving controllers or views...
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
+- Active Records
+- SQLite3
 
-* Configuration
 
-* Database creation
+### Prerequisites
+- Ruby
+- Ruby on Rails
+- SQLite
 
-* Database initialization
+### Setup
+- After cloning a repository to your local computer with the following command `git clone https://github.com/tanzila-abedin/micro-reddit.git`, please run `bundler install.`
+- You should be able to run Rails console with `rails c`
 
-* How to run the test suite
+### Usage
+- Try using some Rails queries within the console, e.g. `User.all` or `Post.last.comments`, and check object returned from the database.
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## Authors
 
-* ...
+👤 **Tanzila**
+
+![Tanzila's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanzila-abedin&count_private=true&theme=dark&show_icons=true)
+
+- GitHub: [@githubhandle](https://github.com/tanzila-abedin)
+- Twitter: [@twitterhandle](https://twitter.com/TanzilaAbedin)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/tanzila-abedin-331440b2/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+
+
