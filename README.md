@@ -17,7 +17,7 @@
 - SQLite
 
 ### Setup
-- After cloning a repository to your local computer with the following command `git clone git@github.com:marijanbrvar/micro-redit.git`, please run `bundler install.`
+- After cloning a repository to your local computer with the following command `git clone https://github.com/tanzila-abedin/micro-reddit.git`, please run `bundler install.`
 - You should be able to run Rails console with `rails c`
 
 ### Usage
