@@ -45,7 +45,4 @@ Feel free to check the [issues page](issues/).
 Give a ⭐️ if you like this project!
 
 
-## 📝 License
 
-- This project is [MIT](https://opensource.org/licenses/MIT) licensed.
-- This project is [creativecommons](https://creativecommons.org/licenses/by-nc/4.0/) licensed.
